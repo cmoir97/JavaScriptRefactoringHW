@@ -1,5 +1,6 @@
 const PubSub = require('../helpers/pub_sub.js');
 
+
 class InstrumentFamilies{
   constructor(data){
     this.data = data;
